@@ -27,10 +27,10 @@ permalink: /syllabus/
 
 ## Meeting Time and Location
 
-	Section 01 Lecture: MWF 11:00-11:50 AM in King 239
+	Section 01 Lecture: MWF 11:00-11:50 AM in King 237
 	Section 01 Lab: T 1:00-2:50 PM in King 135/137
 
-	Section 02 Lecture: MWF 9:00-9:50 AM in King 101
+	Section 02 Lecture: MWF 9:00-9:50 AM in King 323
 	Section 02 Lab: M 2:30-4:20 PM in King 201
 
 ## Course Overview
