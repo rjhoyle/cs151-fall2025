@@ -11,7 +11,7 @@ permalink: /calendar/
 **Week** | **Class** | **Date** | **Topic** | **Reading** | **Assignment** |
 1 | 1 | Feb&nbsp;03 | Introcution | | Lab 0 |
   | 2 | Feb 05 | Introduction to Java | [JfPP: 1.4 - 1.7](https://runestone.academy/ns/books/published/java4python/Java4Python/toctree.html) (Ungraded) |
-  | 3 | Feb 07 | Introduction to Java | | Week&nbsp;1&nbsp;Reflection&nbsp;(Due&nbsp;Feb 10)<br/>[Questionnaire (Due Feb 10)](Fill Me)
+  | 3 | Feb 07 | Introduction to Java | | Week&nbsp;1&nbsp;Reflection&nbsp;(Due&nbsp;Feb 10)<br/>[Questionnaire (Due Feb 10)](https://forms.gle/P7yzyRgv76qbUx139)
 2 | 4 | Feb 10 | Object-Oriented Programming | [JfPP: 1.8-1.11](https://runestone.academy/ns/books/published/java4python/Java4Python/toctree.html) (Ungraded) | Lab 1 (Due Feb 16)
   | 5 | Feb 12 | Object-Oriented Programming | | |
   | 6 | Feb 14 | Inheritance | | Week&nbsp;2&nbsp;Reflection&nbsp;(Due&nbsp;Feb&nbsp;17)
