@@ -67,7 +67,7 @@ For this class, we will be using an interactive textbook from zyBooks. You can b
 * Enter zyBook code: OBERLINCSCI151LevinsonSpring2025
 * Subscribe to the book
 
-We will have assigned readings and interactive activities from this book due most classes. Activites must be completed before lecture (11 AM for Section 01, 9 AM for Section 02) on the day they are due for full credit (partial credit up to 50% is available for late completions).
+We will have assigned readings and interactive activities from this book due most classes. Activites must be completed before lecture (11 AM for Section 01, 10 AM for Section 02) on the day they are due for full credit (partial credit up to 50% is available for late completions).
 
 ## Discussions
 Discussions will be held using Piazza.  The enrollment link is on Blackboard.  
