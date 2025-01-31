@@ -35,9 +35,9 @@ CSCI 151 builds upon the principles introduced in CSCI 150 and provides a genera
 
 **Lectures:** | MWF, 10:00AM -- 10:50AM, King 323
 **Lab:** | M 2:30 - 4:20PM, King 201
-**Instructor:** | Howard Levinson (howard.levinson@oberlin.edu)
-**Office:** | 
-**Office Hours:** | 
+**Instructor:** | Howard Levinson (hlevinso@oberlin.edu)
+**Office:** | King 139C
+**Office Hours:** | Monday 1-2pm, Wednesday 1-2pm, Friday 12-1pm
 **Phone:** | 
 
 ## OWL Review Sessions
