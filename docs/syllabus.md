@@ -58,7 +58,7 @@ For this class, we will be using an interactive textbook from zyBooks. You can b
 ### Section 01 zyBook
 
 * Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
-* Enter zyBook code: XXXXX
+* Enter zyBook code: OBERLINCSCI151HoyleSpring2025
 * Subscribe to the book
 
 ### Section 02 zyBook
