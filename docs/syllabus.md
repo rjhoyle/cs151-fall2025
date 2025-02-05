@@ -19,7 +19,7 @@ permalink: /syllabus/
 
 ### Section 02 Instructor: Howard Levinson
 * Email: hlevinso [AT] oberlin [DOT] edu
-* Student Hours: Monday 4:30-5:30 PM (King 125B), Friday 1:30-3:30 PM (King 125B), or by appointment
+* Student Hours: Monday 1:00-2:00 PM (King 139C), Wednesday 1:00-2:00 PM (King 139C), Friday 12:00-1:00 PM (King 139C), or by appointment
 
 ### CSCI Department Teaching Assistant: Lucas Draper
 * Email: tdraper [AT] oberlin [DOT] edu
@@ -30,7 +30,7 @@ permalink: /syllabus/
 	Section 01 Lecture: MWF 11:00-11:50 AM in King 237
 	Section 01 Lab: T 1:00-2:50 PM in King 135/137
 
-	Section 02 Lecture: MWF 9:00-9:50 AM in King 323
+	Section 02 Lecture: MWF 10:00-10:50 AM in King 323
 	Section 02 Lab: M 2:30-4:20 PM in King 201
 
 ## Course Overview
@@ -64,10 +64,10 @@ For this class, we will be using an interactive textbook from zyBooks. You can b
 ### Section 02 zyBook
 
 * Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
-* Enter zyBook code: XXXXX
+* Enter zyBook code: OBERLINCSCI151LevinsonSpring2025
 * Subscribe to the book
 
-We will have assigned readings and interactive activities from this book due most classes. Activites must be completed before lecture (11 AM for Section 01, 9 AM for Section 02) on the day they are due for full credit (partial credit up to 50% is available for late completions).
+We will have assigned readings and interactive activities from this book due most classes. Activites must be completed before lecture (11 AM for Section 01, 10 AM for Section 02) on the day they are due for full credit (partial credit up to 50% is available for late completions).
 
 ## Discussions
 Discussions will be held using Piazza.  The enrollment link is on Blackboard.  
