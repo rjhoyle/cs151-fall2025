@@ -24,10 +24,10 @@ permalink: /calendar/
 5 | 13 | Mar  3 | Linked Lists | 3.5 - 3.8 | Lab 4 (Due Mar 09)
  | 14 | Mar  5 | Queues and Stacks | 2.3 - 2.4, 3.11 - 3.14 | Linked List (Ticket Allocation with Iterators)
  | 15 | Mar  7 | Sorting (Selection, Insertion, Bubble) | 14.1 - 14.4 | Week&nbsp;5&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;10)
-6 | 16 | Mar  10 | Complexity | | Lab 5 (Due Mar 16)
- | 17 | Mar  12 | Complexity | Queues and Stacks (Maze)
- | 18 | Mar  14 | Recursion | | Week&nbsp;6&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;17)
-7 | 19 | Mar  17 | Merge Sort + Quick Sort | | No lab
+6 | 16 | Mar  10 | Complexity | 4.1 - 4.3 | Lab 5 (Due Mar 16)
+ | 17 | Mar  12 | Complexity | 4.4 - 4.5 | Queues and Stacks (Maze)
+ | 18 | Mar  14 | Recursion | 5.1 - 5.2, 4.6 | Week&nbsp;6&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;17)
+7 | 19 | Mar  17 | Merge Sort + Quick Sort | 15.1 - 15.3 | No lab
  | 20 | Mar  19 | Exam Review | Exam Review
  | 21 | Mar  21 | **Midterm** | | Week&nbsp;7&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;31)
  |  | Mar  24 | **Spring Break** | 
