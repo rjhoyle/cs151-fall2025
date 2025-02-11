@@ -16,7 +16,7 @@ permalink: /calendar/
   | 5 | Feb 12 | Object-Oriented Programming | | |
   | 6 | Feb 14 | Inheritance | | Week&nbsp;2&nbsp;Reflection&nbsp;(Due&nbsp;Feb&nbsp;17)
 3 | 7 | Feb 17 | Arrays and Generics |  | Lab 2 (Due Feb 23)
- | 8 | Feb 19 | Collections and Iterators | Java OOP (Go Fish)
+ | 8 | Feb 19 | Collections and Iterators | 1.1 - 1.5 | Java OOP (Go Fish)
  | 9 | Feb 21 | Array List | | Week&nbsp;3&nbsp;Reflection&nbsp;(Due&nbsp;Feb&nbsp;24)
 4 | 10 | Feb 24 | Array List | | Lab 3 (Due Mar 02)
  | 11 | Feb 26 | Debugging and JUnit | Array List (Contact App with Sorting + Binary Search)
