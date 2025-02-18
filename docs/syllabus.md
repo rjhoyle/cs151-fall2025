@@ -15,7 +15,7 @@ permalink: /syllabus/
 
 ### Section 01 Instructor: Roberto Hoyle
 * Email: rhoyle [AT] oberlin [DOT] edu	
-* Student Hours: Tuesday 9:00-11:00 AM (Rice 108), Wednesday 9:00-10:00 AM (Rice 108), or by appointment
+* Student Hours: Monday 2:00-4:00PM or Tuesday 2:00-4:00pm (Rice 108), or by appointment
 
 ### Section 02 Instructor: Howard Levinson
 * Email: hlevinso [AT] oberlin [DOT] edu
