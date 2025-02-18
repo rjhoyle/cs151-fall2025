@@ -28,7 +28,7 @@ CSCI 151 builds upon the principles introduced in CSCI 150 and provides a genera
 **Lab:** | T 1:00 - 2:50PM, King 135/137
 **Instructor:** | Roberto Hoyle (rhoyle@oberlin.edu)
 **Office:** | Rice 108
-**Office Hours:** | Wednesday/Thursday 2-4pm
+**Office Hours:** | Monday 2-4pm, Tuesday 3-4pm 
 **Phone:** | x58424
 
 ## Section 02
