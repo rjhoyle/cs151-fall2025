@@ -42,6 +42,6 @@ CSCI 151 builds upon the principles introduced in CSCI 150 and provides a genera
 
 ## OWL Review Sessions
 
-**Time and Location:** | Wednesdays 4:30 -- 6:00PM  | **OWLS:** | Arev Lima Boudakian and Rachael Diaz Sanz|
-| Saturdays 6:30 -- 8:00 PM | | | 
+**Time and Location:** | Tuesdays 5:00 -- 6:30PM in King 121   | **OWLS:** | Arev Lima Boudakian and Rachael Diaz Sanz|
+| Wednesdays 4:30 -- 6:00PM in King 127 | | | 
 
