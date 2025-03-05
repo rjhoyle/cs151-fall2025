@@ -21,13 +21,13 @@ permalink: /calendar/
 4 | 10 | Feb 24 | Array List | | Lab 3 (Due Mar 02)
  | 11 | Feb 26 | Debugging and JUnit | | Array List (Contact App with Sorting + Binary Search)
  | 12 | Feb 28 | Linked Lists | 3.1 - 3.3 | Week&nbsp;4&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;03)
-5 | 13 | Mar  3 | Linked Lists | 3.4 - 3.7 | Lab 4 (Due Mar 09)
- | 14 | Mar  5 | Queues and Stacks | 2.3 - 2.4, 3.11 - 3.14 | Linked List (Ticket Allocation with Iterators)
- | 15 | Mar  7 | Sorting (Selection, Insertion, Bubble) | 14.1 - 14.4 | Week&nbsp;5&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;10)
+5 | 13 | Mar  3 | Linked Lists |  | Lab 4 (Due Mar 09)
+ | 14 | Mar  5 | Linked Lists | 3.4 - 3.7 | Linked List (Ticket Allocation with Iterators)
+ | 15 | Mar  7 | Queues and Stacks | 2.3 - 2.4, 3.11 - 3.14 | Week&nbsp;5&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;10)
 6 | 16 | Mar  10 | Complexity | 4.1 - 4.3 | Lab 5 (Due Mar 16)
  | 17 | Mar  12 | Complexity | 4.4 - 4.5 | Queues and Stacks (Maze)
- | 18 | Mar  14 | Recursion | 5.1 - 5.2, 4.6 | Week&nbsp;6&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;17)
-7 | 19 | Mar  17 | Merge Sort + Quick Sort | 15.1 - 15.3 | No lab
+ | 18 | Mar  14 | Sorting (Selection, Insertion, Bubble) | 14.1 - 14.4 | Week&nbsp;6&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;17)
+7 | 19 | Mar  17 | Recursion, Merge Sort | 5.1 - 5.2, 4.6, 15.1, 15.3 | No lab
  | 20 | Mar  19 | Exam Review | Exam Review
  | 21 | Mar  21 | **Midterm** | | Week&nbsp;7&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;31)
  |  | Mar  24 | **Spring Break** | 
