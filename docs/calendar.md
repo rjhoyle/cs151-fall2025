@@ -45,10 +45,10 @@ permalink: /calendar/
 11 | 31 | Apr 21 | Hashtables | 10.1 - 10.4 | Lab 9 (Due Apr 27)
  | 32 | Apr 23 | Hashtables | 10.6 - 10.9 | Hashtable (Markov Chains)
  | 33 | Apr 25 | Graphs | 11.1 - 11.2 | Week&nbsp;11&nbsp;Reflection&nbsp;(Due&nbsp;Apr&nbsp;25)
-12 | 34 | Apr 28 | Graphs | 11.3 - 11.4 | Lab 10 (Due May 09)
+12 | 34 | Apr 28 | Graphs | 11.3 - 11.4 | Lab 10 (Due May 04)
  | 35 | Apr 30 | Graph Search Algorithms | 11.5 - 11.8 | Graphs (Bacon Game)
  | 36 | May 2 | Graph Search Algorithms | 11.9 - 11.10 | Week&nbsp;12&nbsp;Reflection&nbsp;(Due&nbsp;May&nbsp;05)
-13 | 37 | May 5 |  | | Lab 10 (continued)
+13 | 37 | May 5 |  | | 
  | 38 | May 7 | Advanced Topics | 
  | 39 | May 9 | Wrap Up |   | |
 | | | **Section 01 Final** | **Thursday May 15** |  **7:00 -- 9:00PM** | 
