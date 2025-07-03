@@ -12,23 +12,23 @@ permalink: /calendar/
 1 | 1 | Aug 27 | Introduction | | Lab 0 |
   | 2 | Aug 29 | Introduction to Java | [JfPP: 1.4 - 1.7](https://runestone.academy/ns/books/published/java4python/Java4Python/toctree.html) (Ungraded) |
 2 | 3 | Sep 03 | Introduction to Java | | Week&nbsp;1&nbsp;Reflection&nbsp;(Due&nbsp;Feb 10)<br/>[Questionnaire (Due Feb 10)](https://forms.gle/P7yzyRgv76qbUx139)
-  | 4 | Sep 05 | Object-Oriented Programming | [JfPP: 1.8-1.11](https://runestone.academy/ns/books/published/java4python/Java4Python/toctree.html) (Ungraded) | Lab 1 (Due Feb 16)
-3  | 5 | Sep 08 | Object-Oriented Programming | | |
+  | 4 | Sep 05 | Object-Oriented Programming | [JfPP: 1.8-1.11](https://runestone.academy/ns/books/published/java4python/Java4Python/toctree.html) (Ungraded) | 
+3  | 5 | Sep 08 | Object-Oriented Programming | | Lab 01 |
   | 6 | Sep 10 | Inheritance | | Week&nbsp;2&nbsp;Reflection&nbsp;(Due&nbsp;Feb&nbsp;17)
- | 7 | Sep 12 | Arrays and Generics |  | Lab 2 (Due Feb 23)
-4 | 8 | Sep 15 | Collections and Iterators | 1.1 - 1.5 | Java OOP (Go Fish)
+ | 7 | Sep 12 | Arrays and Generics |  | 
+4 | 8 | Sep 15 | Collections and Iterators | 1.1 - 1.5 | | Lab 2 (Due Feb 23)
  | 9 | Sep 17 | Array List | 2.1 - 2.2 | Week&nbsp;3&nbsp;Reflection&nbsp;(Due&nbsp;Feb&nbsp;24)
- | 10 | Sep 19 | Array List | | Lab 3 (Due Mar 02)
-5 | 11 | Sep 22 | Debugging and JUnit | | Array List (Contact App with Sorting + Binary Search)
+ | 10 | Sep 19 | Array List | | 
+5 | 11 | Sep 22 | Debugging and JUnit | | Array List (Contact App with Sorting + Binary Search) | Lab 3 (Due Mar 02)
  | 12 | Sep 24 | Linked Lists | 3.1 - 3.3 | Week&nbsp;4&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;03)
- | 13 | Sep 26 | Linked Lists |  | Lab 4 (Due Mar 09)
-6 | 14 | Sep 29 | Linked Lists | 3.4 - 3.7 | Linked List (Ticket Allocation with Iterators)
+ | 13 | Sep 26 | Linked Lists |  | 
+6 | 14 | Sep 29 | Linked Lists | 3.4 - 3.7 | Lab 4 (Due Mar 09)
  | 15 | Oct 01 | Queues and Stacks | 2.3 - 2.4, 3.11 - 3.14 | Week&nbsp;5&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;10)
- | 16 | Oct 03 | Complexity | 4.1 - 4.3 | Lab 5 (Due Mar 16)
-7 | 17 | Oct 06 | Complexity | 4.4 - 4.5 | Queues and Stacks (Maze)
+ | 16 | Oct 03 | Complexity | 4.1 - 4.3 | 
+7 | 17 | Oct 06 | Complexity | 4.4 - 4.5 | Queues and Stacks (Maze) | Lab 5 (Due Mar 16)
  | 18 | Oct 08 | Sorting (Selection, Insertion, Bubble) | 14.1 - 14.4 | Week&nbsp;6&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;17)
- | 19 | Oct 10 | Recursion, Merge Sort | 5.1 - 5.2, 4.6, 15.1, 15.3 | No lab
-8 | 20 | Oct 13 | | 
+ | 19 | Oct 10 | Recursion, Merge Sort | 5.1 - 5.2, 4.6, 15.1, 15.3 | 
+8 | 20 | Oct 13 | | No lab
 | 21 | Oct 15 | Exam Review | Exam Review
  | 22 | Oct 17 | **Midterm** | | Week&nbsp;7&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;31)
  |  | Oct 20 | **Spring Break** | 
