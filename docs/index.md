@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-site.title: CSCI 151 - Spring 2025
+site.title: CSCI 151 - Fall 2025
 layout: default
 ---
 
@@ -12,7 +12,7 @@ layout: default
 <tr>
 <td>
 <strong>Data Structures</strong><br/>
-<strong>Spring 2025, Oberlin College</strong><br/><br/>
+<strong>Fall 2025, Oberlin College</strong><br/><br/>
 
 CSCI 151 builds upon the principles introduced in CSCI 150 and provides a general background for further study in Computer Science. The course will cover object-oriented programming concepts; the design and implementation of data structures (linked lists, stacks, queues, trees, heaps, hash tables and graphs) and related algorithmic techniques (searching, sorting, recursion); and algorithm analysis. Students will be expected to complete a number of programming projects illustrating the concepts presented.
 </td>
