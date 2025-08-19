@@ -16,16 +16,16 @@ permalink: /calendar/
 3  | 5 | Sep 08 | Object-Oriented Programming | &nbsp; | Lab 01 (Due Sep 14) |
   | 6 | Sep 10 | Inheritance | | Week&nbsp;2&nbsp;Reflection&nbsp;(Due&nbsp;Feb&nbsp;17)
  | 7 | Sep 12 | Arrays and Generics |  | 
-4 | 8 | Sep 15 | Collections and Iterators | 1.1 - 1.5 | | Lab 2 (Due Sep 21)
+4 | 8 | Sep 15 | Collections and Iterators | 1.1 - 1.5 | Lab 2 (Due Sep 21)
  | 9 | Sep 17 | Array List | 2.1 - 2.2 | Week&nbsp;3&nbsp;Reflection&nbsp;(Due&nbsp;Feb&nbsp;24)
  | 10 | Sep 19 | Array List | | 
-5 | 11 | Sep 22 | Debugging and JUnit | | Array List (Contact App with Sorting + Binary Search) | Lab 3 (Due Sep 28)
+5 | 11 | Sep 22 | Debugging and JUnit | | Lab 3 (Due Sep 28)
  | 12 | Sep 24 | Linked Lists | 3.1 - 3.3 | Week&nbsp;4&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;03)
  | 13 | Sep 26 | Linked Lists | &nbsp; |
 6 | 14 | Sep 29 | Linked Lists | 3.4 - 3.7 | Lab 4 (Due Oct 05)
  | 15 | Oct 01 | Queues and Stacks | 2.3 - 2.4, 3.11 - 3.14 | Week&nbsp;5&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;10)
  | 16 | Oct 03 | Complexity | 4.1 - 4.3 | 
-7 | 17 | Oct 06 | Complexity | 4.4 - 4.5 | Queues and Stacks (Maze) | Lab 5 (Due Oct 12)
+7 | 17 | Oct 06 | Complexity | 4.4 - 4.5 | Lab 5 (Due Oct 12)
  | 18 | Oct 08 | Sorting (Selection, Insertion, Bubble) | 14.1 - 14.4 | Week&nbsp;6&nbsp;Reflection&nbsp;(Due&nbsp;Mar&nbsp;17)
  | 19 | Oct 10 | Recursion, Merge Sort | 5.1 - 5.2, 4.6, 15.1, 15.3 | 
 8 | 20 | Oct 13 | | No lab
