@@ -97,12 +97,11 @@ There will be a midterm exam around the middle of the semester, as well as a fin
 Final grades will be determined based on your scores on the labs, exams, reading exercises, weekly reflections, class participation, and initial questionnaire as follows:
 
 Component 	| %
-Initial Questionnaire 	| 2%
 Reading Exercises 	| 10%
 Class Participation 	| 10%
 Midterm Exam 	| 10%
 Final Exam 	| 15%
-Lab Assignments and Problem Sets 	| 53%
+Lab Assignments and Problem Sets 	| 55%
 
 ## Late Homework Policy
 
