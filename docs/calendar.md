@@ -52,5 +52,5 @@ permalink: /calendar/
  | 38 | Dec 05 |  | | 
 15 | 39 | Dec 08 | Advanced Topics | 
  | 39 | Dec 10 | Wrap Up |   | |
-| | | **Section 01 Final** | **To be determined** | |
-| | | **Section 02 Final** | **To be determined** | |
+| | | **Section 01 Final** | **Wednesday, December 17 2:00–4:00 p.m** | |
+| | | **Section 02 Final** | **Thursday, December 18 2:00–4:00 p.m** | |
