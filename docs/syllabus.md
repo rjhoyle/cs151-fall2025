@@ -8,7 +8,6 @@ permalink: /syllabus/
 
 ---
 
-
 # CSCI 151 Syllabus
 
 ## Contact Information
@@ -75,7 +74,7 @@ Active participation in this class will be an important process in your learning
 
 Second, we will also have many small group discussions in class, where we work together to develop solutions to problems (in the forms of algorithms and code), as well as discuss important topics related to computer science and technology.
 
-If you become ill and need to miss class, alternative arrangements can be made for your participation. Please reach out to your instructor by email if you need to miss class. Slides will be posted to Box (linked on our Blackboard page) for you to view asynchronously.
+If you are unable to attend class synchronously, you may watch the recorded video of the class or read the slides and fill out the Asynchronous Class Participation form (linked from Blackboard) within one week of the original class date for credit. If you end up needing to do this more than three times over the course of the semester, please get in touch with your instructor to discuss it.
 
 You are responsible for your own participation and may not respond for other students. Doing so is an Honor Code violation.
 
@@ -99,16 +98,15 @@ Final grades will be determined based on your scores on the labs, exams, reading
 
 Component 	| %
 Initial Questionnaire 	| 2%
-Weekly Reflections 	| 5%
 Reading Exercises 	| 10%
 Class Participation 	| 10%
 Midterm Exam 	| 10%
 Final Exam 	| 15%
-Lab Assignments and Problem Sets 	| 48%
+Lab Assignments and Problem Sets 	| 53%
 
 ## Late Homework Policy
 
-Unless otherwise specified, each lab and problem set will be due at 11:59 PM on Sunday night of the week following the start of the lab assignment. Late submissions are strongly discouraged. However, life happens, and if you need extra time to complete a lab assignment or problem set, you can request a grace period and move the deadline by up to four days. Grace periods must be requested before the original deadline using the Google Form linked on our course Blackboard page. Completing the assignment during your grace period will incur no late penalty. Otherwise, late submissions will be penalized up to 25% per day (after any requested grace period) that they are late. Submissions are considered late if they are turned in one minute or more after the deadline.
+Unless otherwise specified, each lab and problem set will be due at 11:59 PM on Sunday night of the week following the start of the lab assignment. Late submissions are strongly discouraged. However, life happens, and if you need extra time to complete a lab assignment or problem set, you can request a grace period and move the deadline by up to four days. Grace periods must be requested before the original deadline using the Google Form linked on our course Blackboard page. Completing the assignment during your grace period will incur no late penalty. Otherwise, late submissions will be penalized up to 10% per day (after any requested grace period) that they are late. Submissions are considered late if they are turned in one minute or more after the deadline.
 
 Please keep in mind that we will have lab assignments almost every week, so falling behind on one lab shortens the amount of time available to complete the next lab. If, due to hardship or any reason you will need to turn in a significant number of late labs, please meet with your instructor to discuss so we can work together to create a plan to best support your learning.
 
@@ -118,13 +116,15 @@ Per College policy, no late work can be accepted after the end of Reading Period
 
 We are committed to making this class accessible to all students. If you have accessibility needs, please email your instructor or come discuss them with them. Things you might want to discuss accomodations for include physical and mental disabilities, both permanent and temporary, any situation that is causing you to not be able to attend class or spend as much time on this class as you would like (illness, stress, family situations, work hours, just going through a rough time), not having access to computers, anything that is keeping you from doing your best in this course. Let us know, and together we will figure something out.
 
+If you are a student who is not diagnosed with a disability but suspect you may have one, please reach out to [accessibility services](https://www.oberlin.edu/disability-access) and choose the "Meet with Staff" button about half way down the page to schedule a 15 minute informational meeting with OSAS.
+
 Please also let your instructor know if purchasing the textbook and/or iClicker is a barrier for you in this course, and we will work together to find a solution. Financial Aid provides the most comprehensive funding for all costs that students pay, including books and course supplies. Michele Kosbuth can respond to students' questions.
 
 ## OWLS and Tutoring
 
-The CS department hosts drop-in peer tutoring hours in both CS labs in the evenings and on weekends (these are called "lab helper hours" for CSCI 151). If you would also like an one-on-one tutor, Oberlin College provides free tutors for this course. If you would like a tutor, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeZ0fRpVLr8niDScF4wiJ3JYvTE6M8pYq8qLg8OTXmfkrWbqA/viewform).
+The CS department hosts drop-in peer tutoring hours in both CS labs in the evenings and on weekends (these are called "lab helper hours" for CSCI 151). If you would also like an one-on-one tutor, Oberlin College provides free tutors for this course. If you would like a tutor, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScbT5_RrtqmSGvNkXSxpS_pT4IDz8eJHs5jv3A39FP_RgHwQA/viewform?usp=header).
 
-CSCI 151 is also supported by OWLs from CLEAR this semester. OWLS provide fun, collaborative sessions based on the Supplemental Instruction model, integrating course content with learning strategies. Led by students who have taken the course, OWLS help everyone, from those seeking additional support to those excelling and wanting to reinforce their knowledge. Your OWLs, Reed and Arev, will play a crucial role in enhancing your learning experience. They bring valuable knowledge and experience, having previously completed this course successfully. We strongly encourage you to attend their sessions regularly, as these sessions are designed to reinforce your understanding of the course material, develop effective study strategies, and create opportunities for collaborative learning. Engaging with Reed and Arev through these sessions will provide you with additional insights and support, contributing positively to your academic success in this course.
+CSCI 151 is also supported by OWLs from CLEAR this semester. OWLS provide fun, collaborative sessions based on the Supplemental Instruction model, integrating course content with learning strategies. Led by students who have taken the course, OWLS help everyone, from those seeking additional support to those excelling and wanting to reinforce their knowledge. Your OWLs, Menard and Rachael, will play a crucial role in enhancing your learning experience. They bring valuable knowledge and experience, having previously completed this course successfully. We strongly encourage you to attend their sessions regularly, as these sessions are designed to reinforce your understanding of the course material, develop effective study strategies, and create opportunities for collaborative learning. Engaging with Menard and Rachael through these sessions will provide you with additional insights and support, contributing positively to your academic success in this course.
 
 ## Code of Conduct
 
@@ -140,7 +140,7 @@ You are expected to adhere to the [Oberlin College Honor Code](https://www.oberl
 
 On lab assignments, you may work with a partner for the warmup section only. All other sections of the lab assignment must be completed on your own. In general, feel free to discuss the assignments with your peers, including general approaches to solving the problem (e.g., "think about using a loop to iterate over every element of a list", "a modulus operation lets you keep counting between 0 and 4"), but you should never share code, nor describe the exact code needed to solve the assignment. If you do discuss a lab with another student, please indicate those students in the README file within your submission.
 
-You are always allowed to use the textbook and any resources provided by me. You are also allowed to use online resources such as StackOverflow, provided that (1) any code taken from other sources is not more than 2-3 lines at a time, (2) the code used does not make up a substantial portion of any part of a lab assignment or single function, and (3) you cite your source with a comment listing the URL from where you found the code. You are not allowed to use any other sources except when specified in the assignment. Plagiarism and cheating, like copying the work of others, paying others to do your work, using code generated by ChatGPT or other AI systems, etc., is prohibited. We will be running MOSS, an automated plagiarism detection tool, on submissions.
+You are always allowed to use the textbook and any resources provided by me. **In general, any use of programming constructs, functions, libraries or objects that have not been introduced in our lectures, reading or lab materials is prohibited and will be considered an honor code violation.** You are not allowed to use any other sources except when specified in the assignment. Plagiarism and cheating, like copying the work of others, paying others to do your work, using code generated by ChatGPT or other AI systems, etc., is prohibited. We will be running MOSS, an automated plagiarism detection tool, on submissions.
 
 Consulting with your classmates on assignments is strongly encouraged, except where noted. However, turn-ins are individual, and copying code from your classmates is considered plagiarism. For example, given the question "how did you do X?", a great response would be "I used function Y, with W as the second argument. I tried Z first, but it doesn't work". An inappropriate response would be "here is my code, look for yourself". **You should never look at someone else's code, or show someone else your code**.
 
