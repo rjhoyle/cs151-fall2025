@@ -13,24 +13,24 @@ permalink: /syllabus/
 
 ## Contact Information
 
-### Section 01 Instructor: Roberto Hoyle
-* Email: rhoyle [AT] oberlin [DOT] edu	
-* Student Hours: Monday 2:00-4:00PM or Tuesday 2:00-4:00pm (Rice 108), or by appointment
+### Section 01 Instructor: Cynthia Taylor
+* Email: ctaylor [AT] oberlin [DOT] edu	
+* Student Hours: TBD or by appointment
 
 ### Section 02 Instructor: Howard Levinson
 * Email: hlevinso [AT] oberlin [DOT] edu
-* Student Hours: Monday 1:00-2:00 PM (King 139C), Wednesday 1:00-2:00 PM (King 139C), Friday 12:00-1:00 PM (King 139C), or by appointment
+* Student Hours: TBD, or by appointment
 
 ### CSCI Department Teaching Assistant: Lucas Draper
 * Email: tdraper [AT] oberlin [DOT] edu
-* Student Hours: Tuesday 10:00 AM - Noon (King 137), Thursday 10:00 AM - Noon (King 137)
+* Student Hours: Tuesday 10:00 AM - Noon (King 125), Friday 10:00 AM - Noon (King 125)
 
 ## Meeting Time and Location
 
-	Section 01 Lecture: MWF 11:00-11:50 AM in King 237
+	Section 01 Lecture: MWF 11:00-11:50 AM in King 243
 	Section 01 Lab: T 1:00-2:50 PM in King 135/137
 
-	Section 02 Lecture: MWF 10:00-10:50 AM in King 323
+	Section 02 Lecture: MWF 10:00-10:50 AM in King 327
 	Section 02 Lab: M 2:30-4:20 PM in King 201
 
 ## Course Overview
@@ -51,27 +51,23 @@ Prerequisites: CSCI 150 or consent of the instructor. Students considering a com
 
 ## Course Website and Textbook
 
-Information will be primarily communicated through the course website [https://rjhoyle.github.io/cs151-spring2025](https://rjhoyle.github.io/cs151-spring2025) and [Blackboard](https://blackboard.oberlin.edu/). Please check both regularly for announcements, class schedule, lab assignments, etc.
+Information will be primarily communicated through the lab website [https://cs.oberlin.edu/~cs151/](https://cs.oberlin.edu/~cs151/) and [Blackboard](https://blackboard.oberlin.edu/). Please check both regularly for announcements, class schedule, lab assignments, etc.
 
 For this class, we will be using an interactive textbook from zyBooks. You can buy the book online or buy a code for it at the bookstore. To register for this book, do the following:
 
 ### Section 01 zyBook
 
 * Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
-* Enter zyBook code: OBERLINCSCI151HoyleSpring2025
+* Enter zyBook code: TBD
 * Subscribe to the book
 
 ### Section 02 zyBook
 
 * Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
-* Enter zyBook code: OBERLINCSCI151LevinsonSpring2025
+* Enter zyBook code: TBD
 * Subscribe to the book
 
 We will have assigned readings and interactive activities from this book due most classes. Activites must be completed before lecture (11 AM for Section 01, 10 AM for Section 02) on the day they are due for full credit (partial credit up to 50% is available for late completions).
-
-## Discussions
-Discussions will be held using Piazza.  The enrollment link is on Blackboard.  
-
 
 ## Class Participation
 
@@ -83,16 +79,6 @@ If you become ill and need to miss class, alternative arrangements can be made f
 
 You are responsible for your own participation and may not respond for other students. Doing so is an Honor Code violation.
 
-Discussions and answers to common questions will be conducted on Piazza. The enrollment link is available on Blackboard. Students are encouraged to ask questions (about course content, lab instructions, etc.) on Piazza so the answers can be available for all students -- if you wonder about something, odds are several other students do, too!
-
-## Weekly Reflections
-
-To help you connect with the material we will learn in class, you will be asked to complete short weekly reflections. These reflections are designed to give you the opportunity and space to reflect on (1) what you learned during the week, (2) what you found most challenging, (3) what you would like to know more about, (4) how you can connect what we learned with your daily life, and (5) how you are doing. These reflections will be short (around three sentences per question) and should take about 10 minutes per week.
-
-There will also be a short questionnaire during the first week of the course that gives you an opportunity to reflect on your initial thoughts about computer science and this course, as well as to help your instructor get to know each one of you better. The questionnaire will be graded based on participation -- if you turn it in on time with every question answered, you will automatically receive full credit. There are no right or wrong answers to many of these questions, so please do not worry about correctness.
-
-Weekly reflections are due **every Monday at 11:59 PM.**
-
 ## Lab Assignments
 
 Throughout the semester, you will have the opportunity to practice the course material through hands-on lab assignments. There will be around 10 lab assignments in total. Each lab assignment consists of (1) a pair-programming warmup, to be completed in the weekly lab session, and (2) an individual programming component, to be completed by yourself outside of class. Please expect to spend around 7-9 hours per week on the assignments, including both the scheduled lab period and your own time. **These lab assignments  are the homework assignments for the course.**
@@ -103,9 +89,9 @@ Both a student lab helper and faculty instructor will be available in each lab p
 
 There will be a midterm exam around the middle of the semester, as well as a final exam during the College's scheduled final exam time for our lecture section:
 
-**Section 01 Final: Thursday May 15 7:00 -- 9:00PM** 
+**Section 01 Final: Wednesday, December 17 2:00 – 4:00PM** 
 
-**Section 02 Final: Wednesday, May 14 7:00 -- 9:00PM**
+**Section 02 Final: Thursday, December 18 2:00 – 4:00PM**
 
 ## Grading
 
