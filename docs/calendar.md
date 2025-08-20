@@ -28,14 +28,14 @@ permalink: /calendar/
 7 | 17 | Oct 06 | Complexity | 4.4 - 4.5 | Lab 5 (Due Oct 12)
  | 18 | Oct 08 | Sorting (Selection, Insertion, Bubble) | 14.1 - 14.4 | 
  | 19 | Oct 10 | Recursion, Merge Sort | 5.1 - 5.2, 4.6, 15.1, 15.3 | 
-8 | 20 | Oct 13 | Exam Review | No lab
+8 | 20 | Oct 13 | Exam Review | | No lab
 | 21 | Oct 15 | **Midterm** |
  | 22 | Oct 17 | Flex day | |
  |  | Oct 20 | **Fall Break** | 
  |  | Oct 22 | **Fall Break** | 
  |  | Oct 24 | **Fall Break** | 
 9 | 23 | Oct 27 | Trees | 6.1 - 6.2 | Lab 6 (Due Nov 02)
- | 24 | Oct 29 | Trees | | Trees (File System Directories)
+ | 24 | Oct 29 | Trees | | 
  | 25 | Oct 31 | Binary Search Trees | 6.3 - 6.6 | 
 10 | 26 | Nov 03 | Binary Search Trees | 6.7 - 6.10 | Lab 7 (Due Nov 09)
  | 27 | Nov 05 | Balanced Trees (AVL) | 7.1 - 7.3 |
