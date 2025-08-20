@@ -40,13 +40,15 @@ permalink: /calendar/
 10 | 26 | Nov 03 | Binary Search Trees | 6.7 - 6.10 | Lab 7 (Due Nov 09)
  | 27 | Nov 05 | Balanced Trees (AVL) | 7.1 - 7.3 |
  | 28 | Nov 07 | Balanced Trees (AVL) | | 
-11 | 29 | Nov 10 | Prioirty Queues (Heaps) | 9.1 - 9.2 | Lab 8 (Due Nov 16)
+11 | 29 | Nov 10 | Priority Queues (Heaps) | 9.1 - 9.2 | Lab 8 (Due Nov 16)
  | 30 | Nov 12 | Priority Queues (Heaps) | 9.3 - 9.4 | 
  | 31 | Nov 14 | Maps and Sets | 8.1 - 8.3 | 
 12 | 32 | Nov 17 | Hashtables | 10.1 - 10.4 | Lab 9 (Due Nov 23)
  | 33 | Nov 19 | Hashtables | 10.6 - 10.9 | 
  | 34 | Nov 21 | Graphs | 11.1 - 11.2 | 
 13 | 35 | Nov 24 | Graphs | 11.3 - 11.4 | Lab 10 (Due Nov 30)
+| | Nov 26 | **Thanksgiving** | |
+| | Nov 28 | **Thanksgiving** | |
 14 | 36 | Dec 01 | Graph Search Algorithms | 11.5 - 11.8 | 
  | 37 | Dec 03 | Graph Search Algorithms | 11.9 - 11.10 | 
  | 38 | Dec 05 |  | | 
